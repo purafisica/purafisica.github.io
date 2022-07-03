@@ -1,8 +1,8 @@
 /**
-* Template Name: Green - v4.7.0
-* Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Pura Física | Educación
+* Template URL: https://purafisica.github.io/
+* Author: Author: augusalterats
+* License: https://purafisica.github.io/license/
 */
 (function() {
   "use strict";
