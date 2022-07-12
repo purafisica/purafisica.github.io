@@ -63,7 +63,13 @@
             <i class="bi bi-share"></i>
           </a>
           <a class="share"> <!--Colocar link href de app usuario-->
-            <i class="bi bi-x-square" onclick="window.close()"></i>
+            <i class="bi bi-x-square" onclick="closeCurrentWindow()"></i>
+            <script type="text/javascript">
+              function closeCurrentWindow()
+              {
+                window.close();
+              }
+              </script>
           </a>
         </div>
       </div>
