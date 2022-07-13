@@ -67,8 +67,8 @@
           </a>
           <script>
             function close_tab(){
-              if(confirm("Deseas cerrar?")){
-                let link_actual = window.location;
+              let link_actual = window.location;
+              if(confirm("Deseas cerrar: "+link_actual+"?")){
                 window.close()}
               }
             </script>
