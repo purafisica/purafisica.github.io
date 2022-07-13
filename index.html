@@ -67,9 +67,9 @@
           </a>
           <script>
             function close_tab(){
-              let link_actual = window.location.href;
+              let link_actual = window.location;
               if(confirm("Deseas cerrar: "+link_actual+"?")){
-                window.close()}
+                window.close(link_actual)}
               }
             </script>
         </div>
